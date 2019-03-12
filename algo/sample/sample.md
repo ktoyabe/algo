@@ -1,6 +1,6 @@
 # Sample Code
 
-```
+```python
 from typing import List, Optional
 import datetime
 import unittest
